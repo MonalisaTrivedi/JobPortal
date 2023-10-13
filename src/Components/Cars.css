@@ -1,0 +1,17 @@
+.abc{
+    border: 1px solid rgb(219, 206, 206);
+    height: 150px;
+    width:100%;
+    margin: auto;
+    padding-left: 40px;
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-around;
+    /* margin-bottom: 30px; */
+
+}
+.img{
+    height: 120px;
+    width: 120px;
+    /* border: 1px solid rgb(219, 206, 206); */
+}
